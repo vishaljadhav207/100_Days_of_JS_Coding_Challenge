@@ -1,2 +1,2 @@
 
-        age: 50,
+        arr.push(i)
