@@ -21,4 +21,12 @@ const fizzbuzz = (start, end) => {
 };
 
 console.log(fizzbuzz(1, 15));
-//
+//output :-[
+//     1,          2,
+//     'buzz',     'fizz',
+//     7,          8,
+//     'fizz',     'buzz',
+//     11,         'fizz',
+//     13,         14,
+//     'fizzbuzz'
+//   ]
