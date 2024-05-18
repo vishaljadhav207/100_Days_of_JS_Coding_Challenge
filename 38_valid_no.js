@@ -7,4 +7,4 @@ const ValidateMobileNumber = (number) => {
 };
 
 console.log(ValidateMobileNumber("9234567890")); //output: true
-console.log(ValidateMobileNumber("4234567890")); //output: false - not starting with 6-7-8-9
+console.log(ValidateMobileNumber("4234567898")); //output: false - not starting with 6-7-8-9
